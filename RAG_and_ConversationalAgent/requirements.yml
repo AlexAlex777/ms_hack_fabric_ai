@@ -1,0 +1,7 @@
+dependencies:
+  - pip:
+      - pandas==2.2.1
+      - numpy==1.26.4
+      - openai==1.13.3
+      - langchain==0.1.9
+      - docx2txt==0.8
